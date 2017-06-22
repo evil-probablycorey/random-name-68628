@@ -1,4 +1,3 @@
-
   #words {
     padding: 1rem;
     background: #7FDBFF;
@@ -7,7 +6,6 @@
 
 
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-
 
 <!doctype html>
 
@@ -23,7 +21,6 @@
 
 
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-
 
 const words = document.querySelector('#words')
 words.addEventListener('click', () => {
