@@ -1,6 +1,6 @@
   #words {
     padding: 1rem;
-    background: #7FDBFF;
+    background: red;
     text-align: center;
   }
   
